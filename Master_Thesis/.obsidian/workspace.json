@@ -50,91 +50,91 @@
             }
           },
           {
-            "id": "b6c72937a68179cf",
+            "id": "9e3f4a0f0b5e6359",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Density Theory.md",
+                "file": "Literatur beschreibung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Density Theory"
+              "title": "Literatur beschreibung"
             }
           },
           {
-            "id": "fd9ddba3fa0b2377",
+            "id": "b1c86adfb675bf09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Density Theory.md",
+                "file": "Literature/Design of gravimetric primary standards for field-testing of hydrogen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Density Theory"
+              "title": "Design of gravimetric primary standards for field-testing of hydrogen"
             }
           },
           {
-            "id": "cb8c1ea069cc3dc4",
+            "id": "b6fc5a574d02fef0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Density Measurments.md",
+                "file": "Literature/Design of gravimetric primary standards for field-testing of hydrogen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Density Measurments"
+              "title": "Design of gravimetric primary standards for field-testing of hydrogen"
             }
           },
           {
-            "id": "e4931c06e123faa9",
+            "id": "b711438d6795caff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Density Measurments.md",
+                "file": "Literature/Dichtesensor DGF-I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Density Measurments"
+              "title": "Dichtesensor DGF-I"
             }
           },
           {
-            "id": "9d0e69830cc26da5",
+            "id": "787ec57d00692981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Density Measurments.md",
+                "file": "Literature/Dichtemessung Grundlagen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Density Measurments"
+              "title": "Dichtemessung Grundlagen"
             }
           },
           {
-            "id": "2228d28fcb8181f8",
+            "id": "de7531977ef944fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic Idea.md",
+                "file": "Magnetic Coupling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basic Idea"
+              "title": "Magnetic Coupling"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -279,22 +279,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2228d28fcb8181f8",
+  "active": "c34b7e91efe14ad5",
   "lastOpenFiles": [
-    "Density Measurments.md",
+    "Literature/Dichtesensor DGF-I.md",
+    "Literature/Dichtemessung Grundlagen.md",
+    "Literature/Design of gravimetric primary standards for field-testing of hydrogen.md",
+    "Literature/Publishable Summary for 23IND05 H2FlowTrace Flow measurement traceability for hydrogen in gas networks.md",
+    "Literatur beschreibung.md",
+    "Literature",
+    "Magnetic Coupling.md",
+    "Gedanken für die Zukunft.md",
+    "Existing Measurment Technics.md",
+    "Motivation.md",
+    "Density Theory.md",
     "Basic Idea.md",
+    "Density Measurments.md",
     "Bilder/Areometers .png",
     "Bilder",
-    "Literatur beschreibung.md",
-    "Gedanken für die Zukunft.md",
     "Open ToDos.md",
     "Traceability.md",
     "Traceabilty.md",
-    "Density Theory.md",
-    "Motivation.md",
     "Welcome.md",
     "Abstract.md"
   ]
