@@ -1,0 +1,301 @@
+{
+  "main": {
+    "id": "ed5615c187b1260c",
+    "type": "split",
+    "children": [
+      {
+        "id": "51174b5258fde100",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c44df4bc7452f95e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "0985b6d3beca756a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Abstract.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Abstract"
+            }
+          },
+          {
+            "id": "65f3d9b11761eff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motivation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Motivation"
+            }
+          },
+          {
+            "id": "b6c72937a68179cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Density Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Density Theory"
+            }
+          },
+          {
+            "id": "fd9ddba3fa0b2377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Density Theory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Density Theory"
+            }
+          },
+          {
+            "id": "cb8c1ea069cc3dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Density Measurments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Density Measurments"
+            }
+          },
+          {
+            "id": "e4931c06e123faa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Density Measurments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Density Measurments"
+            }
+          },
+          {
+            "id": "9d0e69830cc26da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Density Measurments.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Density Measurments"
+            }
+          },
+          {
+            "id": "2228d28fcb8181f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic Idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Basic Idea"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a1ccf425982f0331",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb10971ed6128af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c34b7e91efe14ad5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9240de9f8457d598",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94c3908858f6d38c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb7d3686bb9d463a",
+    "type": "split",
+    "children": [
+      {
+        "id": "220a7fb7c531b218",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5341b90cd1cfe8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literatur beschreibung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Literatur beschreibung"
+            }
+          },
+          {
+            "id": "f441b14dad8ae8b9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Literatur beschreibung.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Literatur beschreibung"
+            }
+          },
+          {
+            "id": "fe84010808caaf75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "94c99fadb3eb9782",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Literatur beschreibung.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Literatur beschreibung"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "2228d28fcb8181f8",
+  "lastOpenFiles": [
+    "Density Measurments.md",
+    "Basic Idea.md",
+    "Bilder/Areometers .png",
+    "Bilder",
+    "Literatur beschreibung.md",
+    "Gedanken für die Zukunft.md",
+    "Open ToDos.md",
+    "Traceability.md",
+    "Traceabilty.md",
+    "Density Theory.md",
+    "Motivation.md",
+    "Welcome.md",
+    "Abstract.md"
+  ]
+}
